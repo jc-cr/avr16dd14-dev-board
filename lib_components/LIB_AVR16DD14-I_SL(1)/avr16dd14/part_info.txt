@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=AVR16DD14-I/SL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=1.2
+Released=2022-12-01 09:54:55
+Downloaded=2024-03-08 12:15:33
+3D=Y
